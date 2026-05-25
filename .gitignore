@@ -1,0 +1,20 @@
+# Environment variables — never commit API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Uploaded CVs
+uploads/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+node_modules/
